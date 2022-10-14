@@ -9,4 +9,4 @@
 
 ### Status
   - Java, Spring, Spring boot, JS, Jquery, Maria DB, MYSQL, Linux(CentOS), Git, SVN 
-  - BackEnd, FrontEnd Developer
+  - Web Developer(FrontEnd, BackEnd)
