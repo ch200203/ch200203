@@ -11,8 +11,8 @@
 <br/>
 
 ### 👩🏻‍💻 Status
-  - Java, Spring, Spring boot, JS, Jquery, Maria DB, MYSQL, Linux(CentOS), Git, SVN 
-  - Web Developer(BackEnd)
+  - Java, Spring, Spring boot, JS, Jquery, Maria DB, MYSQL, Linux(CentOS), Shell Script, Git, SVN, Jenkins
+  - Web Developer(Full Stack)
 
 
 <br/>
