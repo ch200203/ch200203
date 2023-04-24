@@ -29,3 +29,5 @@ Notion : https://shard-particle-845.notion.site/3707b284f6db4227a73cf32c46abede3
 ---
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ch200203&show_icons=true&theme=default)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fch200203%2Fhit-counter&count_bg=%233D5BC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=&edge_flat=true)](https://hits.seeyoufarm.com)
