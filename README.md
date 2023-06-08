@@ -3,7 +3,7 @@
 함께 배우고 공유하며 배움을 바탕으로 주어진 문제를 해결해 나가는 것을 좋아하는 개발자 입니다.
 
 ## 📙Portfolio
-Notion : https://shard-particle-845.notion.site/3707b284f6db4227a73cf32c46abede3
+Notion : https://shard-particle-845.notion.site/df1505d9ff61497e8344f1c297f89739?pvs=4
 
 ## 🛠 Tech Stack
 
