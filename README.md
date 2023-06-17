@@ -26,7 +26,9 @@ Notion : https://shard-particle-845.notion.site/df1505d9ff61497e8344f1c297f89739
 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"> <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
 
+
 ---
+
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ch200203&show_icons=true&theme=default)
 
