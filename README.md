@@ -31,4 +31,4 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ch200203&show_icons=true&theme=default)
 
-[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=blue&label=hits&size=small)](https://myhits.vercel.app)
+![Hits](https://hit-s.kro.kr/api/count/badge?url=https://github.com/ch200203&color=4caf50&r=v1)
