@@ -2,8 +2,6 @@
 
 함께 배우고 공유하며 배움을 바탕으로 주어진 문제를 해결해 나가는 것을 좋아하는 개발자 입니다.
 
-## 📙Portfolio
-
 ## 🛠 Tech Stack
 
 ### Language
@@ -27,6 +25,8 @@
 
 
 ---
+### OpenSource Contribute
+- [mockk#1030](https://github.com/mockk/mockk/issues/1030)
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ch200203&show_icons=true&theme=default)
