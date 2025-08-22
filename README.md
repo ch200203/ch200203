@@ -26,7 +26,7 @@
 
 ---
 ### OpenSource Contribute
-- [mockk#1030](https://github.com/mockk/mockk/issues/1030)
+- [mockk#1030](https://github.com/mockk/mockk/issues/1030) [add fail-fast guard for Kotlin inline function mocking](https://github.com/mockk/mockk/pull/1421)
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ch200203&show_icons=true&theme=default)
